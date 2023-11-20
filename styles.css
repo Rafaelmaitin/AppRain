@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 100px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(195, 193, 193);
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 19px;
+}
