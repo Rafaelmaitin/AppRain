@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Pronóstico de Lluvia</title>
+</head>
+<body>
+    <header>
+        <h1>🌂 Pronóstico de Lluvia ☔</h1>
+    </header>
+
+    <main>
+        <article>
+         <button id="localizador">¿Lloverá en las próximas 8 horas donde estoy? </button> 
+         <div class="resultado"></div>   
+        </article>
+    </main>
+
+    <script src="index.js" type="module"></script>
+</body>
+</html>
